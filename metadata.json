@@ -1,0 +1,5 @@
+{
+  "name": "HappyData",
+  "description": "A web-based data visualization platform that helps users explore how different development indicators from the World Bank relate to human well-being data from the World Happiness Report.",
+  "requestFramePermissions": []
+}
